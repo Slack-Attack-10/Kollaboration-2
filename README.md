@@ -1,5 +1,6 @@
 # Kollaboration-2
-ismael
+
+##Ismael
 
 ##How to Cook rice
 `1. Rinse the rice.`
@@ -13,13 +14,13 @@ ismael
 
 
 
-Ronny
+##Ronny
 ##Definition eines Wortes
 - Throttling Deutsch Übersetzt: Drosseln
 - Das Throttling bezeichnet das Auslassen con Takten bei Haupt- und Grafikprozessoren.
 
-
-## Info Marian
+## Marian
+## Info 
 - Alte `31`
 - Geboren `Bailesti - Ro`
 - Jetz in Shule 
